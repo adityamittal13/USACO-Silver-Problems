@@ -32,4 +32,4 @@ int main(){
     cout << v[3] << endl;
     cout << lower_bound(a,a+7,3)-a << endl;
     cout << upper_bound(v.begin(), v.end(), 3) - v.begin() << endl;
-}
+} 
